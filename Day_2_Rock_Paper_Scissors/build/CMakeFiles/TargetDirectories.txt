@@ -1,3 +1,0 @@
-/home/jibbe/AdventOfCode2022/Day_2_Rock_Paper_Scissors/build/CMakeFiles/Day_2_Rock_Paper_Scissors.dir
-/home/jibbe/AdventOfCode2022/Day_2_Rock_Paper_Scissors/build/CMakeFiles/edit_cache.dir
-/home/jibbe/AdventOfCode2022/Day_2_Rock_Paper_Scissors/build/CMakeFiles/rebuild_cache.dir
