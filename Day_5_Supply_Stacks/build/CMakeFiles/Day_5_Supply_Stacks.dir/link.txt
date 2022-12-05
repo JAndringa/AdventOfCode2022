@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Day_5_Supply_Stacks.dir/main.cpp.o CMakeFiles/Day_5_Supply_Stacks.dir/home/jibbe/AdventOfCode2022/Utils/src/inputReader.cpp.o -o Day_5_Supply_Stacks 

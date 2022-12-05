@@ -1,3 +1,0 @@
-/home/jibbe/AdventOfCode2022/Day_4_Camp_Cleanup/build/CMakeFiles/Day_4_Camp_Cleanup.dir
-/home/jibbe/AdventOfCode2022/Day_4_Camp_Cleanup/build/CMakeFiles/edit_cache.dir
-/home/jibbe/AdventOfCode2022/Day_4_Camp_Cleanup/build/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/jibbe/AdventOfCode2022/Day_3_Rucksack_Reorganisation/build/CMakeFiles/Day_3_RuckSack_Reorganisation.dir
-/home/jibbe/AdventOfCode2022/Day_3_Rucksack_Reorganisation/build/CMakeFiles/edit_cache.dir
-/home/jibbe/AdventOfCode2022/Day_3_Rucksack_Reorganisation/build/CMakeFiles/rebuild_cache.dir
