@@ -9,5 +9,3 @@
 
 build/*
 !build/build.xml
-
-.idea/*
